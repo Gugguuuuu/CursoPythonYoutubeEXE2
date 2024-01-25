@@ -1,3 +1,4 @@
+# EXERCICIO 43
 altura = float(input('Digite sua altura : '))
 peso = float(input('Digite seu peso em KG : '))
 IMC  = peso / (pow(altura, 2))

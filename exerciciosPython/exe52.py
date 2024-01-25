@@ -1,3 +1,4 @@
+# EXERCICIO 52
 n = int(input('Digite um numero para ver se é primo : '))
 d = 0
 

@@ -1,3 +1,4 @@
+# EXERCICIO 49
 n = float(input('Digite um numero : '))
 t = int(input('Digite o tamanho da tabuada : '))
 print('=#'*10)

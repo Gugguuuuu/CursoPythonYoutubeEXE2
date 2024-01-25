@@ -1,4 +1,4 @@
-#compras = float(input('Digite o valor da sua {}° compra : '.format(i)))
+# EXERCICIO 33
 ask = str(input('Você vai fazer compras? '.strip().lower()))
 if ask == 's' or ask == 'sim':
    i = 1

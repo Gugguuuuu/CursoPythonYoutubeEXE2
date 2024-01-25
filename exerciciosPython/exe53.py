@@ -1,3 +1,4 @@
+# EXERCICIO 53
 p = str(input('Digite uma palavra/frase : '.lower()))
 con = len(p) - 1
 resultado = ''

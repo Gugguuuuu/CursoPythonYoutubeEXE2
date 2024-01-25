@@ -1,3 +1,4 @@
+# EXERCICIO 48
 n = int(input('Digite um numero : '))
 soma = 0
 c = 0

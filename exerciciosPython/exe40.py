@@ -1,4 +1,4 @@
-
+# EXERCICIO 40
 i = 0
 soma_das_notas = 0
 con = 's'

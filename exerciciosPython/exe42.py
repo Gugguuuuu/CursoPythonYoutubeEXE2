@@ -1,3 +1,4 @@
+# EXERCICIO 42
 s = float(input('Digite o valor de um segmento de reta : '))
 s1 = float(input('Digite outro valor de um segmento de reta : '))
 s2 = float(input('Digite mais outro valor de segmento de reta : '))

@@ -1,4 +1,4 @@
-
+# EXERCICIO 45
 from time import sleep
 print('-='*40, '\nVamos jogar JOKENPO', '\n', '-='*40)
 

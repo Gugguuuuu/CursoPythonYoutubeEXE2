@@ -1,3 +1,4 @@
+# EXERCICIO 51
 i  = int(input('Digite o primeiro termo : '))
 r = int (input('Digite a razão : '))
 t = int(input('Você quer quantos termos : '))

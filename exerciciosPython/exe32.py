@@ -1,4 +1,4 @@
-# from datetime import date
+# EXERCICIO 32
 ano = int(input('Digite em que ano você está : '))
 
 if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:

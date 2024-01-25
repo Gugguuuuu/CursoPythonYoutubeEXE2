@@ -1,3 +1,4 @@
+# EXERCICIO 44
 valor = float(input('Digite o valor de sua compra : '))
 pagamento = str(input('''
 Opções de pagamento :

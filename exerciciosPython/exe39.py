@@ -1,3 +1,4 @@
+# EXERCICIO 39
 idade = int(input('Digite sua idade : '))
 if idade < 18:
     falta = 18 - idade 

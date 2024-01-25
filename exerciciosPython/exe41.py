@@ -1,3 +1,4 @@
+# EXERCICIO 41
 from datetime import date
 nome = str(input('Digite o nome do atleta : '.strip().title()))
 nascimento = int(input('Digite sua data de nascimento : '))

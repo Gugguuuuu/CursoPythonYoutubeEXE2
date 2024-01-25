@@ -1,3 +1,4 @@
+# EXERCICIO 36
 casa = float(input('Digite o valor da casa : '))
 salario = float(input('Digite seu salario : '))
 anos = int(input('Digite em quantos anos voce vai comprar a casa : '))

@@ -1,4 +1,4 @@
-# EXERCICIO 3
+# EXERCICIO 30
 n = int(input('Digite um numero : '))
 pi = n % 2
 

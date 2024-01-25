@@ -1,4 +1,4 @@
-# EXERCICIO 1
+# EXERCICIO 28
 from random import randint
 a = randint(1, 6)
 print('O computador pesou em um numero de 1 a 6. Tente adivinhar')
